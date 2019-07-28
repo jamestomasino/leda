@@ -6,6 +6,7 @@ A [gemini](gopher://zaibatsu.circumlunar.space/1/~solderpunk/gemini) server writ
 
 - [x] listen on port 1965
 - [x] echo server
+- [ ] use tasking & messaging
 - [ ] respond with proper headers
 - [ ] check for file contents to return based on PATH
 - [ ] use TLS
